@@ -308,9 +308,9 @@ form label{
 	border-radius: 3px;
 	color:#ffffff;
 }
-.inner-btn2 .btn-primary:hover, .inner-btn .btn-primary:focus{
-	background: transparent;
-	color:#008ed6;
+.main-price :hover .btn-info ,.inner-btn .btn-primary:focus{
+	background: #008ed6;
+	color:#fff;
 	border:1px solid #008ed6;
 	transition: 0.4s;
 }
